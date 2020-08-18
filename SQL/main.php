@@ -3,7 +3,7 @@
     $connectionOptions = array(
         "Database" => "SampleDB",
         "Uid" => "sa",
-        "PWD" => "CYBERknight007"
+        "PWD" => ""
     );
 //Establishes the connection
 $conn = sqlsrv_connect($serverName, $connectionOptions);
